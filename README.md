@@ -1,5 +1,9 @@
 # Calculator React App
 
+### Live Demo --> [Click here](elite-secretary.surge.sh)
+
+<br>
+
 ![weater-app-gif](./public/weater-react-app-animation.gif)
 
 ## Available Scripts
@@ -15,4 +19,5 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ##### reference: freecodecamp
+
 ##### drawback: this application utilizes basic API membership subscription <br> even though the data is correct, its visualization is not :)
