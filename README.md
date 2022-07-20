@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Calculator React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![weater-app-gif](./public/weater-react-app-animation.gif)
 
 ## Available Scripts
 
@@ -13,3 +13,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+##### reference: freecodecamp
+##### drawback: this application utilizes basic API membership subscription <br> even though the data is correct, its visualization is not :)
